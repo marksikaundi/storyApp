@@ -1,4 +1,4 @@
-# story_app formy skillshare training
+# story app for my trainings
 
 A new Flutter project.
 
